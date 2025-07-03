@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+}
+#logo img{
+    width: 36vw;
+    height: 36vh;
+    margin: 12px;
+}
+#logo h3 {
+    margin-right: 12px;
+}
+
+#logo {
+    display: flex;
+    flex-direction: row;
+}
