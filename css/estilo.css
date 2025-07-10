@@ -338,3 +338,8 @@ body {
     height: auto;
 }
 
+#dir {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
